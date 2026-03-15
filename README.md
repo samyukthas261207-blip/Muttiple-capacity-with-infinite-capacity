@@ -68,7 +68,7 @@ print("-----------------------------------------------------")
 
 ```
 ## Output :
-
+![image](m5.png)
 
 ## Result : 
-
+The average number of material in the system and in the conveyor and waiting are successfully found.
